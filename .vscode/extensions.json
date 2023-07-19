@@ -1,6 +1,8 @@
+/* List of extensions which should be recommended for users of this workspace. 
+The identifier of an extension is always '${publisher}.${name}'. 
+For example: 'vscode.csharp'. */
+
 {
   "recommendations": [
-    
-    "nrwl.angular-console"
   ]
 }
